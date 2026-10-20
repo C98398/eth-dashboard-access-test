@@ -11,4 +11,7 @@
 
 此仓库公开，页面展示的数据也公开。
 
-浅色看板包含区间收益与回撤、每日净收益、分摊交易成本、ETH 15 分钟 K 线与真实开平仓标记，以及可筛选成交表。图表使用 Apache ECharts 6.0.0，代码与许可随 HTML 一起发布，无外部 CDN 依赖。页面底部可查看完整开源许可。
+浅色看板包含区间收益与回撤、每日净收益、分摊交易成本、ETH 15 分钟 K 线与真实开平仓标记，以及可筛选成交表。统计图使用 Apache ECharts 6.0.0，K 线使用 TradingView Lightweight Charts™ 5.2.1。两个图表库、真实快照与许可均随 HTML 发布，无外部 CDN 依赖。收益图支持 24 小时、7 天、30 天和全部历史；行情图支持 24/48 小时及全部历史。页面底部可查看完整开源许可。
+
+TradingView Lightweight Charts™
+Copyright (с) 2025 TradingView, Inc. https://www.tradingview.com/
