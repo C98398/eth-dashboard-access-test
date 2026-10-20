@@ -1,2 +1,12 @@
-# eth-dashboard-access-test
-Static connectivity test with fictional placeholders only.
+# ETH 三盘观察台
+
+[打开看板](https://c98398.github.io/eth-dashboard-access-test/)
+
+只读静态看板：原版模拟盘、反馈优化模拟盘以及从新起点开始记录的实盘。
+
+- 展示经过字段白名单处理的真实数据快照；不包含 API 密钥、账户标识或原始数据库。
+- 反馈盘继承的成交和迁移资金调整不计入策略收益。
+- 实盘缺少完整平仓、费用或余额时显示待同步，不补历史、不用模拟数值代替。
+- 数据时间采用北京时间。静态页面刷新不会直接查询交易所，最新数据以页面快照时间为准。
+
+此仓库公开，页面展示的数据也公开。
